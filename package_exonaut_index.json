@@ -47,9 +47,9 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://dl.espressif.com/dl/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
+              "url": "https://github.com/espressif/crosstool-NG/releases/download/esp-14.2.0_20241119/xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
               "archiveFileName": "xtensa-esp-elf-14.2.0_20241119-x86_64-w64-mingw32.zip",
-              "checksum": "SHA-256:put-actual-checksum-here",
+              "checksum": "SHA256:62ae704777d73c30689efff6e81178632a1ca44d1a2d60f4621eb997e040e028",
               "size": "put-actual-size-here"
             },
             {
